@@ -115,5 +115,8 @@
     "dist",
     "src",
     "index.d.ts"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "http://npm.internal.suade.org"
+  }
 }
